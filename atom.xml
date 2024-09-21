@@ -6,7 +6,7 @@
   <link href="http://zephyrus-repos.github.io/atom.xml" rel="self"/>
   
   <link href="http://zephyrus-repos.github.io/"/>
-  <updated>2024-09-21T15:09:18.277Z</updated>
+  <updated>2024-09-21T15:23:20.979Z</updated>
   <id>http://zephyrus-repos.github.io/</id>
   
   <author>
@@ -17,37 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>What is Linux?</title>
-    <link href="http://zephyrus-repos.github.io/posts/5c85a01c.html"/>
-    <id>http://zephyrus-repos.github.io/posts/5c85a01c.html</id>
-    <published>2024-09-21T15:08:55.000Z</published>
-    <updated>2024-09-21T15:09:18.277Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Looking to get started in Linux? Develop a good working knowledge of
-Linux using both the graphical interface and command line across the</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>README for the Site consist of Hexo + Next</title>
     <link href="http://zephyrus-repos.github.io/posts/873586f3.html"/>
     <id>http://zephyrus-repos.github.io/posts/873586f3.html</id>
     <published>2024-09-21T13:56:50.000Z</published>
-    <updated>2024-09-21T14:58:25.278Z</updated>
+    <updated>2024-09-21T15:23:20.979Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very
-first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask on GitHub.</summary>
     
     
     
