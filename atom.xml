@@ -6,7 +6,7 @@
   <link href="http://zephyrus-repos.github.io/atom.xml" rel="self"/>
   
   <link href="http://zephyrus-repos.github.io/"/>
-  <updated>2024-09-21T14:58:25.278Z</updated>
+  <updated>2024-09-21T15:09:18.277Z</updated>
   <id>http://zephyrus-repos.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>What is Linux?</title>
+    <link href="http://zephyrus-repos.github.io/posts/5c85a01c.html"/>
+    <id>http://zephyrus-repos.github.io/posts/5c85a01c.html</id>
+    <published>2024-09-21T15:08:55.000Z</published>
+    <updated>2024-09-21T15:09:18.277Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Looking to get started in Linux? Develop a good working knowledge of
+Linux using both the graphical interface and command line across the</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>README for the Site consist of Hexo + Next</title>
