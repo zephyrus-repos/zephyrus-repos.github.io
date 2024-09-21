@@ -6,7 +6,7 @@
   <link href="http://zephyrus-repos.github.io/atom.xml" rel="self"/>
   
   <link href="http://zephyrus-repos.github.io/"/>
-  <updated>2024-09-21T13:58:07.754Z</updated>
+  <updated>2024-09-21T13:59:35.569Z</updated>
   <id>http://zephyrus-repos.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>readme</title>
+    <title>Readme</title>
     <link href="http://zephyrus-repos.github.io/posts/873586f3.html"/>
     <id>http://zephyrus-repos.github.io/posts/873586f3.html</id>
     <published>2024-09-21T13:56:50.000Z</published>
-    <updated>2024-09-21T13:58:07.754Z</updated>
+    <updated>2024-09-21T13:59:35.569Z</updated>
     
     
       
@@ -31,6 +31,10 @@
     
     
     
+    <category term="hexo" scheme="http://zephyrus-repos.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="http://zephyrus-repos.github.io/tags/hexo/"/>
     
   </entry>
   
